@@ -26,21 +26,21 @@ Este projeto tem como finalidade monitorar falhas de energia em ambientes críti
 ---
 
 ## 🛠️ Requisitos
-- [.NET 6.0 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
-- Visual Studio 2022 ou Visual Studio Code
+- [.NET 6.0 SDK]
+- Visual Studio 2022 
 
 ---
 
 ## ▶️ Como Executar
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/BernardoPRocha/GS-CSharp.git
+   git clone https://github.com/BernardoPRocha/PlataformaEnergia
    ```
 2. Navegue até a pasta do projeto:
    ```bash
-   cd GS-CSharp/src
+   cd PlataformaEnergia/src
    ```
-3. Abra no Visual Studio ou VS Code
+3. Abra no Visual Studio 2022
 4. Compile e execute (`F5`)
 5. Faça login com uma das credenciais e use o menu do sistema
 
@@ -48,7 +48,7 @@ Este projeto tem como finalidade monitorar falhas de energia em ambientes críti
 
 ## 🗂️ Estrutura do Projeto
 ```
-GS-CSharp/
+PlataformaEnergia/
 ├── src/
 │   ├── Evento.cs
 │   ├── FalhaEnergia.cs
@@ -58,7 +58,6 @@ GS-CSharp/
 │   ├── Usuario.cs
 │   └── Program.cs
 ├── README.md
-├── .gitignore
 ```
 
 ---
