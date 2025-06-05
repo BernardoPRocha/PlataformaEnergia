@@ -1,0 +1,14 @@
+C:\Users\labsfiap\Downloads\PlataformaEnerngia\PlataformaEnerngia\bin\Debug\net6.0\PlataformaEnergia.exe
+C:\Users\labsfiap\Downloads\PlataformaEnerngia\PlataformaEnerngia\bin\Debug\net6.0\PlataformaEnergia.deps.json
+C:\Users\labsfiap\Downloads\PlataformaEnerngia\PlataformaEnerngia\bin\Debug\net6.0\PlataformaEnergia.runtimeconfig.json
+C:\Users\labsfiap\Downloads\PlataformaEnerngia\PlataformaEnerngia\bin\Debug\net6.0\PlataformaEnergia.dll
+C:\Users\labsfiap\Downloads\PlataformaEnerngia\PlataformaEnerngia\bin\Debug\net6.0\PlataformaEnergia.pdb
+C:\Users\labsfiap\Downloads\PlataformaEnerngia\PlataformaEnerngia\obj\Debug\net6.0\PlataformaEnergia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labsfiap\Downloads\PlataformaEnerngia\PlataformaEnerngia\obj\Debug\net6.0\PlataformaEnergia.AssemblyInfoInputs.cache
+C:\Users\labsfiap\Downloads\PlataformaEnerngia\PlataformaEnerngia\obj\Debug\net6.0\PlataformaEnergia.AssemblyInfo.cs
+C:\Users\labsfiap\Downloads\PlataformaEnerngia\PlataformaEnerngia\obj\Debug\net6.0\PlataformaEnergia.csproj.CoreCompileInputs.cache
+C:\Users\labsfiap\Downloads\PlataformaEnerngia\PlataformaEnerngia\obj\Debug\net6.0\PlataformaEnergia.dll
+C:\Users\labsfiap\Downloads\PlataformaEnerngia\PlataformaEnerngia\obj\Debug\net6.0\refint\PlataformaEnergia.dll
+C:\Users\labsfiap\Downloads\PlataformaEnerngia\PlataformaEnerngia\obj\Debug\net6.0\PlataformaEnergia.pdb
+C:\Users\labsfiap\Downloads\PlataformaEnerngia\PlataformaEnerngia\obj\Debug\net6.0\PlataformaEnergia.genruntimeconfig.cache
+C:\Users\labsfiap\Downloads\PlataformaEnerngia\PlataformaEnerngia\obj\Debug\net6.0\ref\PlataformaEnergia.dll

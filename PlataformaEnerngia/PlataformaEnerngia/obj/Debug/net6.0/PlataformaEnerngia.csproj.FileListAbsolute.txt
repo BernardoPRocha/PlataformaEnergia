@@ -1,0 +1,14 @@
+C:\Users\labsfiap\Downloads\PlataformaEnerngia\PlataformaEnerngia\obj\Debug\net6.0\PlataformaEnerngia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labsfiap\Downloads\PlataformaEnerngia\PlataformaEnerngia\obj\Debug\net6.0\PlataformaEnerngia.AssemblyInfoInputs.cache
+C:\Users\labsfiap\Downloads\PlataformaEnerngia\PlataformaEnerngia\obj\Debug\net6.0\PlataformaEnerngia.AssemblyInfo.cs
+C:\Users\labsfiap\Downloads\PlataformaEnerngia\PlataformaEnerngia\obj\Debug\net6.0\PlataformaEnerngia.csproj.CoreCompileInputs.cache
+C:\Users\labsfiap\Downloads\PlataformaEnerngia\PlataformaEnerngia\bin\Debug\net6.0\PlataformaEnerngia.exe
+C:\Users\labsfiap\Downloads\PlataformaEnerngia\PlataformaEnerngia\bin\Debug\net6.0\PlataformaEnerngia.deps.json
+C:\Users\labsfiap\Downloads\PlataformaEnerngia\PlataformaEnerngia\bin\Debug\net6.0\PlataformaEnerngia.runtimeconfig.json
+C:\Users\labsfiap\Downloads\PlataformaEnerngia\PlataformaEnerngia\bin\Debug\net6.0\PlataformaEnerngia.dll
+C:\Users\labsfiap\Downloads\PlataformaEnerngia\PlataformaEnerngia\bin\Debug\net6.0\PlataformaEnerngia.pdb
+C:\Users\labsfiap\Downloads\PlataformaEnerngia\PlataformaEnerngia\obj\Debug\net6.0\PlataformaEnerngia.dll
+C:\Users\labsfiap\Downloads\PlataformaEnerngia\PlataformaEnerngia\obj\Debug\net6.0\refint\PlataformaEnerngia.dll
+C:\Users\labsfiap\Downloads\PlataformaEnerngia\PlataformaEnerngia\obj\Debug\net6.0\PlataformaEnerngia.pdb
+C:\Users\labsfiap\Downloads\PlataformaEnerngia\PlataformaEnerngia\obj\Debug\net6.0\PlataformaEnerngia.genruntimeconfig.cache
+C:\Users\labsfiap\Downloads\PlataformaEnerngia\PlataformaEnerngia\obj\Debug\net6.0\ref\PlataformaEnerngia.dll
