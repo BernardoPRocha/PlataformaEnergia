@@ -70,4 +70,4 @@ PlataformaEnergia/
 ---
 
 ## 📽️ Vídeo Pitch
-[Link para o vídeo no YouTube (Privado)](https://youtube.com/seu_video_aqui)
+[Link para o vídeo no YouTube (Privado)](https://youtu.be/Ja9MjDJIo80)
